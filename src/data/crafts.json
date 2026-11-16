@@ -1,0 +1,582 @@
+[
+  {
+    "id": "pashmina-kashmir",
+    "name": "Kashmiri Pashmina",
+    "state": "Jammu & Kashmir",
+    "district": "Srinagar",
+    "giStatus": "Registered",
+    "giYear": 2005,
+    "description": "Hand-spun and hand-woven luxury fabric derived from the fine undercoat of Changthangi goats (Capra hircus). Celebrated for its warmth, microscopic fiber fineness (12-16 microns), and traditional diamond-shaped twill weave known as 'Chashm-e-Bulbul'.",
+    "keyFeatures": [
+      {
+        "name": "Fiber Fineness",
+        "expected": "12 to 16 microns (hair-like microscopic lightness)",
+        "technique": "Hand-carding & Charkha spinning"
+      },
+      {
+        "name": "Weave Structure",
+        "expected": "Chashm-e-Bulbul (Bird's Eye / Diamond twill) or plain weave with irregular organic warp-weft tension",
+        "technique": "Traditional Kashmiri Wooden Handloom"
+      },
+      {
+        "name": "Motif Style",
+        "expected": "Chinar leaf, Paisley (Badam), Floral creeper, Cypress pine",
+        "technique": "Sozni needle embroidery or Kani twill-tapestry"
+      },
+      {
+        "name": "Dye Characteristics",
+        "expected": "Vegetal & natural mineral dyes with subtle soft tonality; no synthetic chemical odor",
+        "technique": "Traditional vat dyeing by Rangrez"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0046",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "banarasi-brocade",
+    "name": "Banarasi Brocade & Silk",
+    "state": "Uttar Pradesh",
+    "district": "Varanasi",
+    "giStatus": "Registered",
+    "giYear": 2007,
+    "description": "World-renowned ancient opulent textile craft from Varanasi, crafted on pit looms using pure mulberry silk (Katan), real gold and silver metallic threads (Zari), and complex Jacquard or Naksha jala harnesses. Notable for its dense foliage, jaal, and mina work.",
+    "keyFeatures": [
+      {
+        "name": "Zari Composition",
+        "expected": "Silver alloy core coated with pure gold; distinctive matte metallic sheen that doesn't tarnish rapidly",
+        "technique": "Kalabattun spinning on pure silk thread"
+      },
+      {
+        "name": "Weave Reverse Side",
+        "expected": "Floating extra-weft threads (Khaddi / Kadhwa) with hand-clipped floats, or interlocking tapestry mina joints",
+        "technique": "Phekwa or Kadhwa handloom weaving"
+      },
+      {
+        "name": "Signature Motifs",
+        "expected": "Kalka (Paisley), Shikargah (Hunting scenes), Beldar creepers, Latifa Buti, and Mughal floral bouquets",
+        "technique": "Naksha Patra graph plotting"
+      },
+      {
+        "name": "Fabric Lustre & Fall",
+        "expected": "Heavy natural drape with crisp dual-tone lustre; no synthetic oily shimmer",
+        "technique": "Pure Katan degummed mulberry silk"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0099",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "jaipur-blue-pottery",
+    "name": "Jaipur Blue Pottery",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "giStatus": "Registered",
+    "giYear": 2006,
+    "description": "Unique traditional pottery developed under Maharaja Sawai Ram Singh II. Unlike regular pottery, it uses NO CLAY; it is composed of Egyptian paste made of ground quartz stone, Fuller's earth (Multani Mitti), glass frit, katira gum, and natural soda water, fired once at low temperatures.",
+    "keyFeatures": [
+      {
+        "name": "Body Material",
+        "expected": "Clay-free, translucent crystalline quartz dough; pale granular core visible at unglazed base",
+        "technique": "Open mold press with quartz frit paste"
+      },
+      {
+        "name": "Glaze & Palette",
+        "expected": "Cobalt oxide (royal blue), Copper oxide (turquoise/green), and iron oxide (yellow/brown) under clear glass glaze",
+        "technique": "Low-heat single firing (800-850°C)"
+      },
+      {
+        "name": "Painting Style",
+        "expected": "Freehand brushwork with subtle brushstroke line variations; Persian rosettes, peacocks, floral vines",
+        "technique": "Squirrel-hair brush detailing"
+      },
+      {
+        "name": "Tactile Texture",
+        "expected": "Subtle organic surface crazing (fine micro-crackle in glaze) and cool quartz feel to touch",
+        "technique": "Natural glaze contraction during cooling"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0066",
+    "type": "Pottery & Ceramics",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "madhubani-painting",
+    "name": "Madhubani Painting (Mithila)",
+    "state": "Bihar",
+    "district": "Madhubani",
+    "giStatus": "Registered",
+    "giYear": 2005,
+    "description": "Ancient folk art form practiced by women of Mithila region in Bihar. Characterized by eye-catching geometrical patterns, line drawings with double outlines, fish, lotus, peacock motifs, and complete absence of empty space (filled with birds, flowers, and geometric patterns).",
+    "keyFeatures": [
+      {
+        "name": "Line Work Style",
+        "expected": "Kachni (fine line hatching) or Bharni (solid color fill) executed with double outlines and cross-hatching",
+        "technique": "Bamboo twig nibs (kalam) wrapped with raw cotton"
+      },
+      {
+        "name": "Pigment Composition",
+        "expected": "100% natural pigments: Lampblack/kajal (black), turmeric (yellow), indigo (blue), madder (red), bilwa tree juice",
+        "technique": "Vegetable and mineral extracts mixed with goat milk/gum"
+      },
+      {
+        "name": "Substrate Base",
+        "expected": "Handmade paper treated with cow dung wash (giving pale amber warmth) or pure Tussar/Mulberry silk",
+        "technique": "Gobar-lipai paper preparation"
+      },
+      {
+        "name": "Compositional Density",
+        "expected": "Horror Vacui (fear of empty space) - every void is adorned with flora, fauna, and geometric filler lines",
+        "technique": "Traditional Mithila folk iconography"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0037",
+    "type": "Painting",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "channapatna-toys",
+    "name": "Channapatna Wooden Toys",
+    "state": "Karnataka",
+    "district": "Ramanagara",
+    "giStatus": "Registered",
+    "giYear": 2005,
+    "description": "Traditional turned-wood craft originating from Tipu Sultan's era, earned Channapatna the title 'Gombegala Ooru' (Town of Toys). Made exclusively from sustainably sourced Wrightia tinctoria (Aale mara / Ivory Wood) and colored with 100% non-toxic vegetable dyes and lac.",
+    "keyFeatures": [
+      {
+        "name": "Wood Type",
+        "expected": "Wrightia tinctoria (Ivory Wood / Aale mara) - soft, fine-grained, splinter-free, pale cream timber",
+        "technique": "Seasoned natural lathe-turning"
+      },
+      {
+        "name": "Coloring Agent",
+        "expected": "Natural lacquer pigmented with turmeric (yellow), indigo (blue), katha (brown), and kumkum (red)",
+        "technique": "Friction-heat lacquer application on lathe"
+      },
+      {
+        "name": "Polishing & Finish",
+        "expected": "Glass-like high buff shine achieved naturally without artificial varnish; completely child-safe and edible-grade non-toxic",
+        "technique": "Talipot palm leaf (screwworm leaf) dry burnishing"
+      },
+      {
+        "name": "Safety & Edges",
+        "expected": "Zero sharp edges; all contours turned smooth with radiused fillets",
+        "technique": "Hand-lathe gouge chisel rounding"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1566576912321-d58ddd7a6088?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0023",
+    "type": "Woodcraft",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "kancheepuram-silk",
+    "name": "Kancheepuram Silk Sari",
+    "state": "Tamil Nadu",
+    "district": "Kanchipuram",
+    "giStatus": "Registered",
+    "giYear": 2004,
+    "description": "Renowned as the queen of South Indian handlooms, woven with three-ply heavy mulberry silk twisted with silver/gold zari. Distinguished by its heavy weight, contrast borders attached using the intricate Korvai interlocking technique, and temple gopuram motifs.",
+    "keyFeatures": [
+      {
+        "name": "Korvai Interlocking Joint",
+        "expected": "Jagged tooth or stepped interlocking line joining border and body, requiring two weavers at the pit loom",
+        "technique": "Three-shuttle Korvai hand-weaving"
+      },
+      {
+        "name": "Silk Ply & Weight",
+        "expected": "Heavy gauge fabric woven from 3-ply twisted mulberry silk threads (Murukku pattu), weighing 600g to 1000g+",
+        "technique": "High-density reed count (warp/weft)"
+      },
+      {
+        "name": "Zari Certification",
+        "expected": "Traditional zari contains 57% silver and 0.6% pure gold over a silk core (Brahmin Zari standard)",
+        "technique": "Electroplated pure bullion zari"
+      },
+      {
+        "name": "Pallu Connection (Petni)",
+        "expected": "Distinct zigzag interlocking joint where the pallu is woven separately and integrated into the body",
+        "technique": "Petni handloom interweaving"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0015",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "bastar-dhokra",
+    "name": "Bastar Dhokra Bell Metal",
+    "state": "Chhattisgarh",
+    "district": "Bastar",
+    "giStatus": "Registered",
+    "giYear": 2007,
+    "description": "Ancient lost-wax hollow casting technique (cire perdue) practiced for over 4,000 years since the Mohenjo-daro Dancing Girl. Tribal artisans of Bastar hand-mold beeswax filaments into organic animal figures, tribal deities, and lamps before casting in bell metal alloy.",
+    "keyFeatures": [
+      {
+        "name": "Filament Wire Detailing",
+        "expected": "Organic, hand-coiled wire-like textures covering the surface with subtle hand-pressed variations",
+        "technique": "Beeswax & resin (Jhuna) hand-extrusion"
+      },
+      {
+        "name": "Metal Alloy Composition",
+        "expected": "Traditional bell metal (Kansa: 78% Copper, 22% Tin) or recycled brass alloy giving rich antique tone",
+        "technique": "Clay kiln pit casting"
+      },
+      {
+        "name": "Core Construction",
+        "expected": "Hollow inside with residual baked red/black ant-hill clay core audible or visible inside figures",
+        "technique": "Two-stage clay core and mold preparation"
+      },
+      {
+        "name": "Surface Finish",
+        "expected": "Warm golden-brown antique patina with natural casting textures, never mirror-polished or machine-sanded",
+        "technique": "River sand buffing and mustard oil wash"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1590736969955-71cc94801759?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0083",
+    "type": "Metalware",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "kolhapuri-chappal",
+    "name": "Kolhapuri Chappals",
+    "state": "Maharashtra",
+    "district": "Kolhapur",
+    "giStatus": "Registered",
+    "giYear": 2009,
+    "description": "Handcrafted open-toed leather footwear made using vegetable-tanned buffalo and goat leather. Stitched entirely with leather cord (no iron nails or chemical adhesives), seasoned with mustard and castor oils, and decorated with delicate leather braids and pompoms.",
+    "keyFeatures": [
+      {
+        "name": "Tanning Method",
+        "expected": "Vegetable tanning with Babul bark (Acacia nilotica) and Harda (Myrobalan) nuts",
+        "technique": "Traditional bag tanning pit"
+      },
+      {
+        "name": "Stitching Medium",
+        "expected": "Braided raw leather thongs (Khara) securing sole to upper; completely free of metal nails or chemical glue",
+        "technique": "Awl piercing and hand-cord pulling"
+      },
+      {
+        "name": "Sole Structure",
+        "expected": "Multi-layered buffalo hide compressed with wooden mallet, yielding characteristic creaking sound (Kar-Kar)",
+        "technique": "Wet compression and sun-curing"
+      },
+      {
+        "name": "Aroma & Seasoning",
+        "expected": "Distinctive earthy, rich vegetable-oil and leather aroma from castor/mustard oil treatment",
+        "technique": "Oil bath soaking for flexibility"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "0169",
+    "type": "Leather Craft",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "bagru-print",
+    "name": "Bagru Hand Block Print",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "giStatus": "Registered",
+    "giYear": 2009,
+    "description": "Hand block printing on cloth with carved wooden blocks and earthy natural dyes. Look for repeated hand-printed motifs and small variations between impressions.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Hand block printing on cloth with carved wooden blocks and earthy natural dyes. Look for repeated hand-printed motifs and small variations between impressions.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "183",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "kota-doria",
+    "name": "Kota Doria",
+    "state": "Rajasthan",
+    "district": "Kota",
+    "giStatus": "Registered",
+    "giYear": 2004,
+    "description": "Lightweight cotton-silk fabric woven with a distinctive fine square-check pattern called khat. Look for airy checks and a delicate handloom texture.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Lightweight cotton-silk fabric woven with a distinctive fine square-check pattern called khat. Look for airy checks and a delicate handloom texture.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1605000797499-95a51c5269ae?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "12",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "sanganeri-print",
+    "name": "Sanganeri Hand Block Printing",
+    "state": "Rajasthan",
+    "district": "Jaipur",
+    "giStatus": "Registered",
+    "giYear": 2008,
+    "description": "Hand block printed textiles known for delicate floral and botanical motifs. Look for fine outlines, balanced repeats and hand-print variation.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Hand block printed textiles known for delicate floral and botanical motifs. Look for fine outlines, balanced repeats and hand-print variation.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "147",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "molela-clay",
+    "name": "Molela Clay Work",
+    "state": "Rajasthan",
+    "district": "Rajsamand",
+    "giStatus": "Registered",
+    "giYear": 2006,
+    "description": "Terracotta plaques and figures shaped and painted by hand. Look for a fired clay body, raised forms and vivid painted details.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Terracotta plaques and figures shaped and painted by hand. Look for a fired clay body, raised forms and vivid painted details.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "67",
+    "type": "Pottery",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "thewa-art",
+    "name": "Thewa Art Work",
+    "state": "Rajasthan",
+    "district": "Pratapgarh",
+    "giStatus": "Registered",
+    "giYear": 2011,
+    "description": "Intricate openwork gold-sheet designs fused onto coloured glass. Look for detailed motifs framed by a fine gold lattice.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Intricate openwork gold-sheet designs fused onto coloured glass. Look for detailed motifs framed by a fine gold lattice.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "244",
+    "type": "Metalwork",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "pokaran-pottery",
+    "name": "Pokaran Pottery",
+    "state": "Rajasthan",
+    "district": "Jaisalmer",
+    "giStatus": "Registered",
+    "giYear": 2015,
+    "description": "Distinctive local pottery shaped and fired by artisans. Look for hand-formed profiles, local clay character and individual surface finish.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Distinctive local pottery shaped and fired by artisans. Look for hand-formed profiles, local clay character and individual surface finish.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1565193298595-6c7b7b8a9e5d?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "519",
+    "type": "Pottery",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "sojat-mehndi",
+    "name": "Sojat Mehndi",
+    "state": "Rajasthan",
+    "district": "Pali",
+    "giStatus": "Registered",
+    "giYear": 2018,
+    "description": "GI-registered henna from the Sojat region. This is an agricultural product; visual checks alone cannot confirm origin or quality.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "GI-registered henna from the Sojat region. This is an agricultural product; visual checks alone cannot confirm origin or quality.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1599940824399-b87987ceb72a?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "628",
+    "type": "Natural dye",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "jodhpur-bandhej",
+    "name": "Jodhpur Bandhej Craft",
+    "state": "Rajasthan",
+    "district": "Jodhpur",
+    "giStatus": "Registered",
+    "giYear": 2021,
+    "description": "Tie-dyed textiles made by carefully tying small sections before dyeing. Look for characteristic dotted patterns and colour transitions.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Tie-dyed textiles made by carefully tying small sections before dyeing. Look for characteristic dotted patterns and colour transitions.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "751",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "makrana-marble",
+    "name": "Makrana Marble",
+    "state": "Rajasthan",
+    "district": "Nagaur",
+    "giStatus": "Registered",
+    "giYear": 2013,
+    "description": "Natural marble from Makrana, used in celebrated architecture and carving. The GI listing identifies the stone origin; appearance is not enough to authenticate it.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Natural marble from Makrana, used in celebrated architecture and carving. The GI listing identifies the stone origin; appearance is not enough to authenticate it.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "405",
+    "type": "Stone craft",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "udaipur-koftgari",
+    "name": "Udaipur Koftgari Metal Craft",
+    "state": "Rajasthan",
+    "district": "Udaipur",
+    "giStatus": "Registered",
+    "giYear": 2021,
+    "description": "Decorative metal inlay work involving fine wire or sheet inlaid into a darker metal surface. Look for carefully chased, flush-set ornament.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Decorative metal inlay work involving fine wire or sheet inlaid into a darker metal surface. Look for carefully chased, flush-set ornament.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "747",
+    "type": "Metalwork",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "orissa-pattachitra",
+    "name": "Orissa Pattachitra",
+    "state": "Odisha",
+    "district": "Odisha",
+    "giStatus": "Registered",
+    "giYear": 2007,
+    "description": "Traditional narrative painting on prepared cloth, with confident outlines, dense ornament and natural-looking colour.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Traditional narrative painting on prepared cloth, with confident outlines, dense ornament and natural-looking colour.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "88",
+    "type": "Painting",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "bidriware",
+    "name": "Bidriware",
+    "state": "Karnataka",
+    "district": "Bidar",
+    "giStatus": "Registered",
+    "giYear": 2005,
+    "description": "Dark alloy objects decorated with silver inlay. Look for fine metallic patterns set into a deep charcoal surface.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Dark alloy objects decorated with silver inlay. Look for fine metallic patterns set into a deep charcoal surface.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "20",
+    "type": "Metalwork",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "kullu-shawl",
+    "name": "Kullu Shawl",
+    "state": "Himachal Pradesh",
+    "district": "Kullu",
+    "giStatus": "Registered",
+    "giYear": 2004,
+    "description": "Woven wool shawls, often finished with colourful geometric borders. Look for a substantial woollen weave and crisp patterned bands.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Woven wool shawls, often finished with colourful geometric borders. Look for a substantial woollen weave and crisp patterned bands.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "19",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "phulkari",
+    "name": "Phulkari",
+    "state": "Punjab",
+    "district": "Punjab",
+    "giStatus": "Registered",
+    "giYear": 2005,
+    "description": "Embroidery worked on the reverse of cloth so the front shows bold satin-stitch motifs. Look for dense, hand-worked geometric florals.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Embroidery worked on the reverse of cloth so the front shows bold satin-stitch motifs. Look for dense, hand-worked geometric florals.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1590736969955-71cc94901144?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "27",
+    "type": "Embroidery",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  },
+  {
+    "id": "pochampally-ikat",
+    "name": "Pochampally Ikat",
+    "state": "Telangana",
+    "district": "Yadadri Bhuvanagiri",
+    "giStatus": "Registered",
+    "giYear": 2003,
+    "description": "Resist-dyed yarns are woven into characteristic ikat patterns. Look for softly feathered pattern edges formed by the yarn-dyeing process.",
+    "keyFeatures": [
+      {
+        "name": "Craft character",
+        "expected": "Resist-dyed yarns are woven into characteristic ikat patterns. Look for softly feathered pattern edges formed by the yarn-dyeing process.",
+        "technique": "Visual reference only"
+      }
+    ],
+    "imageUrl": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "giNumber": "4",
+    "type": "Textiles",
+    "registrySource": "https://ipindia.gov.in/frontend/pdf/gi/registered/State_wise_Registered_GI_of_India.pdf"
+  }
+]
