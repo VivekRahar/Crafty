@@ -2,6 +2,10 @@
 
 Crafty is a small React website for exploring One District One Product (ODOP) handicrafts and their Geographical Indication (GI) reference details. It includes a browser-side image colour comparison as an educational indicator.
 
+## Live demo
+
+Visit Crafty: https://vercel-stage-bice.vercel.app
+
 > The photo check is not an AI model, an authenticity certificate, or a substitute for checking official GI records. It compares average image colour with a simple category palette and cannot verify materials, weave, maker, or origin.
 
 ## Features
